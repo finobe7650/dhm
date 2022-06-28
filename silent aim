@@ -1,4 +1,3 @@
---http spying is a sad thing to do. It just shows you want to steal others work and use it in your own without credits like every paster. Even if you have this silent aim its Noss (thx papi)
 
 
 _G.Distance = 190000343
@@ -11,7 +10,7 @@ _G.Distance = 190000343
   
     
     local SilentAim = true 
-    _G.silentaim = true 
+    _G.silentaim = false 
     local LocalPlayer = game:GetService("Players").LocalPlayer
     local Players = game:GetService("Players")
     local Mouse = LocalPlayer:GetMouse()
